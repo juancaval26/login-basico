@@ -18,7 +18,7 @@
         <div class="col-md-6">
           <div class="card">
             <div class="card-body">
-              <form class="form-group" method="post" id="diseño">
+              <form class="form-group" method="post">
                 <h3>Olvidó su Contraseña</h3>
                 <p>Le llegara un codigo al correo para que reestablecer su contraseña</p>
                 <label for="">Ingrese su correo: </label>
